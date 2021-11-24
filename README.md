@@ -10,3 +10,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreferreirax&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreferreirax&layout=compact&langs_count=16&theme=dark"/>
 </div>
+    
+    <div style="display:inline_block"><br>
+	<img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/javascript/javasript-plains.svg">
+	<img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/html5/html5-original.svg">
+	<img align="center" alt="Andre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/csharp/csharp-original.svg">
+	<img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/css3/css3-original.svg">
+	<img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/python/python-original.svg">
+	<img align="center" alt="Andre-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/java/java-original.svg">
+</div>
+
+	##

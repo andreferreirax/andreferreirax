@@ -12,12 +12,10 @@
 </div>
     
     <div style="display:inline_block"><br>
-	<img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/javascript/javasript-plains.svg">
-	<img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/html5/html5-original.svg">
-	<img align="center" alt="Andre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/csharp/csharp-original.svg">
-	<img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/python/python-original.svg">
-	<img align="center" alt="Andre-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/java/java-original.svg">
+	<img align="center" alt="AndreFerreira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/javascript/javasript-plains.svg">
+	<img align="center" alt="AndreFerreira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/html5/html5-original.svg">
+	<img align="center" alt="AndreFerreira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/csharp/csharp-original.svg">
+	<img align="center" alt="AndreFerreira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/css3/css3-original.svg">
+	<img align="center" alt="AndreFerreira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/python/python-original.svg">
+	<img align="center" alt="AndreFerreira-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/java/java-original.svg">
 </div>
-
-	##

@@ -2,7 +2,7 @@
 
 
 - Hoje trabalho com Front-end
-- Estudando HTML5, JAVA, Java Srcript, Python, SQL Server e MySQL
+- Estudando JAVA, Java Srcript, Python e MySQL
 - Pronouns Ele/Dele
 
 <div>
